@@ -3,15 +3,3 @@
 [node name="TitleScreen" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
-
-[node name="Button" type="Button" parent="."]
-<<<<<<< HEAD
-margin_left = 320.0
-margin_top = 163.0
-margin_right = 619.0
-margin_bottom = 313.0
-text = "test"
-=======
-anchor_right = 1.0
-anchor_bottom = 1.0
->>>>>>> a838d4d01ba45f4c0838368dfdde69becace2830
