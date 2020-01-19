@@ -23,5 +23,5 @@ align = 1
 valign = 1
 
 [node name="Button" type="Button" parent="."]
-margin_right = 12.0
-margin_bottom = 20.0
+margin_right = 136.0
+margin_bottom = 147.0
