@@ -19,8 +19,11 @@ config/name="NOM"
 run/main_scene="res://TitleScreen/TitleScreen.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/resizable=false
+
 [rendering]
 
-environment/default_clear_color=Color( 0.301961, 0.301961, 0.301961, 1 )
 environment/default_clear_color=Color( 0.403922, 0.627451, 0.486275, 1 )
 environment/default_environment="res://default_env.tres"
